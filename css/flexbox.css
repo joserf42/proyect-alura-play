@@ -1,3 +1,4 @@
+/*Cabecera*/
 .cabecera__container {
     display: flex;
     justify-content: space-between;
@@ -10,8 +11,19 @@
     display: none;
 }
 
+/*Rodapié*/
+.rodapie__container {
+    display: flex;
+    flex-flow: column wrap;
+}
+
 @media (min-width:834px) {
+    /*Cabecera*/
     .cabecera__buscar__item {
         display: block;
+    }
+    /*Rodapié*/
+    .rodapie__container {
+        justify-content: space-between;
     }
 }
