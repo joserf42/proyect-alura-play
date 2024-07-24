@@ -9,6 +9,35 @@
 
 .cabecera__buscar__item {
     display: none;
+
+
+}
+
+/*Menu*/
+.menu__container {
+    position: fixed;
+    bottom: 0%;
+    height: 75px;
+    width: 100%;
+}
+
+.menu__lista {
+    display: flex;
+}
+
+.menu__lista:nth-child(2),
+.menu__lista:nth-child(3),
+.menu__lista:nth-child(4) {
+    display: none;
+}
+
+/*Sección superior*/
+.superior__seccion__container {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    overflow: scroll;
+    gap: 15px;
 }
 
 /*Rodapié*/
@@ -18,10 +47,12 @@
 }
 
 @media (min-width:834px) {
+
     /*Cabecera*/
     .cabecera__buscar__item {
         display: block;
     }
+
     /*Rodapié*/
     .rodapie__container {
         justify-content: space-between;
