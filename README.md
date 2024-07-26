@@ -5,7 +5,7 @@ Este proyecto se centra en la implementación de Flexbox para crear diseños res
 ## Diseño en Figma
 
 El diseño se ha realizado en Figma, y se puede acceder a él mediante el siguiente en
-lace: [Figma](https://www.figma.com/design/g5AmAhCI9dJCXl04pJxL5w/Alura-Play?node-id=0-1&t=hj78CGJjwMaVw8sw-0)
+Url: [Figma](https://www.figma.com/design/g5AmAhCI9dJCXl04pJxL5w/Alura-Play?node-id=0-1&t=hj78CGJjwMaVw8sw-0)
 
 ## Visualización
 
@@ -30,4 +30,4 @@ Aquí tienes una vista previa del proyecto en diferentes dispositivos:
 3. Explora los estilos aplicados mediante Flexbox y cómo se adaptan a diferentes resoluciones.
 
 ## DEPLOY
-lace: [Deploy](proyect-alura-play.vercel.app)
+Url: [Deploy](proyect-alura-play.vercel.app)
