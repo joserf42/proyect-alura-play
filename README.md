@@ -30,4 +30,4 @@ Aquí tienes una vista previa del proyecto en diferentes dispositivos:
 3. Explora los estilos aplicados mediante Flexbox y cómo se adaptan a diferentes resoluciones.
 
 ## DEPLOY
-proyect-alura-play.vercel.app
+lace: [Deploy](proyect-alura-play.vercel.app)
