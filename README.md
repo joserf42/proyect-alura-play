@@ -5,7 +5,7 @@ Este proyecto se centra en la implementación de Flexbox para crear diseños res
 ## Diseño en Figma
 
 El diseño se ha realizado en Figma, y se puede acceder a él mediante el siguiente en
-Url: [Figma](https://www.figma.com/design/g5AmAhCI9dJCXl04pJxL5w/Alura-Play?node-id=0-1&t=hj78CGJjwMaVw8sw-0)
+late: [Figma](https://www.figma.com/design/g5AmAhCI9dJCXl04pJxL5w/Alura-Play?node-id=0-1&t=hj78CGJjwMaVw8sw-0)
 
 ## Visualización
 
