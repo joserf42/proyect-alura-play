@@ -250,6 +250,12 @@ body {
     padding: 10px 0 20px 0;
 }
 
+.rodapie__autor {
+    color: var(--azul-medio);
+    display: flex;
+    justify-content: center;
+}
+
 @media(min-width: 834px) {
 
     body {
