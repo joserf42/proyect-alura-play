@@ -2,7 +2,7 @@
 
 Este proyecto se centra en la implementación de Flexbox para crear diseños responsivos en CSS. El código HTML y CSS ya están preparados, y se han organizado los elementos del proyecto para adaptarse a diferentes tamaños de pantalla.
 
-## Diseño en Figma:
+## Diseño en Figma
 
 El diseño se ha realizado en Figma, y se puede acceder a él mediante el siguiente en
 lace: [Figma](https://www.figma.com/design/g5AmAhCI9dJCXl04pJxL5w/Alura-Play?node-id=0-1&t=hj78CGJjwMaVw8sw-0)
