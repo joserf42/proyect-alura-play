@@ -121,7 +121,7 @@ body {
 }
 
 .icono__biblioteca::before {
-    content: url(../img/menu/video_library.png);
+    content: url();
 }
 
 .icono__historico::before {
@@ -129,7 +129,7 @@ body {
 }
 
 .icono__reloj::before {
-    content: url(../img/menu/history_toggle_off.png);
+    content: url(./img/menu/history_toggle_off.png);
 }
 
 .icono__like::before {
