@@ -1,4 +1,4 @@
-# Curso CSS: Flexbox y Layouts Responsivos
+# Flexbox y Layouts Responsivos
 
 Este proyecto se centra en la implementación de Flexbox para crear diseños responsivos en CSS. El código HTML y CSS ya están preparados, y se han organizado los elementos del proyecto para adaptarse a diferentes tamaños de pantalla.
 
