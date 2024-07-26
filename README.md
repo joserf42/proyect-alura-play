@@ -13,12 +13,15 @@ Aquí tienes una vista previa del proyecto en diferentes dispositivos:
 
 - **1440 - Desktop:**
   !Vista previa en escritorio
+  ![1440 - Desktop](https://github.com/user-attachments/assets/e5c07dac-8b96-49c6-9eb1-5f95d878f1e5)
 
 - **834 – Tablet:**
   !Vista previa en tablet
+  ![834 – Tablet](https://github.com/user-attachments/assets/f894eaaf-bcdc-44d2-b26a-4246325de55c)
 
 - **428 – Móvil:**
   !Vista previa en móvil
+  ![428 – Móvil](https://github.com/user-attachments/assets/5bb966f5-442f-44e5-9739-7a563fd135f8)
 
 ## Instrucciones de uso
 
